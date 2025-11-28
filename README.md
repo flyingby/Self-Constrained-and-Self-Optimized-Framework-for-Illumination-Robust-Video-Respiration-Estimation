@@ -27,7 +27,6 @@ In video-based respiration estimation, extreme illumination variations, such as 
 
 [4]  We construct the SCSO-Driver dataset, a real-world driver respiration dataset, filling a critical gap in extreme-illumination evaluation 
 
-
 ### ✨Pipeline
 <p align="center">
 <img width="1000" alt="image" src="Asset/Pipeline.png">
